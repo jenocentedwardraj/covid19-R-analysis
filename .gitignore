@@ -1,0 +1,15 @@
+# R temporary and backup files
+*.Rhistory
+*.RData
+*.Rproj.user/
+*.Rproj
+.Rhistory
+.RData
+
+# R Markdown and knitr files
+*.utf8.md
+*.knit.md
+
+# Other common junk files
+.DS_Store
+*.log
